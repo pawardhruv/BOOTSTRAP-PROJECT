@@ -1,0 +1,11 @@
+/* Color Palette */
+:root {
+  --ipl-dark-blue: #06143c;
+  --ipl-blue: #19398a;
+  --ipl-light-blue: #182756;
+}
+
+.ipl-header {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}

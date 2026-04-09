@@ -1,0 +1,30 @@
+/* Color Palette */
+:root {
+  --ipl-dark-blue: #06143c;
+  --ipl-blue: #19398a;
+  --ipl-light-blue: #182756;
+}
+
+.ipl-header {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+
+/* Top Bar */
+
+.top-bar {
+  background-color: var(--ipl-dark-blue);
+  height: 40px;
+  font-size: 0.85rem;
+}
+
+.social-icons i {
+  cursor: pointer;
+  color: #a0a0a0;
+  transition: color 0.3s;
+}
+
+.social-icons i:hover {
+  color: white;
+}

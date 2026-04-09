@@ -1,0 +1,19 @@
+.main-sponsor {
+    max-width: 180px;
+}
+
+.sponsors-section {
+    background-color: white; 
+    background-image: url('../assets/rounded_spiral-latest-bg.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.ipl-btn {
+    background: #ef4123;
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    font-weight: bold;
+    border-radius: 4px;
+}

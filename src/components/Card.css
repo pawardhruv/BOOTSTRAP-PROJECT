@@ -1,0 +1,88 @@
+/* Points Table Section Background */
+.pt-section {
+    background-color: #f8f9fa; 
+    background-image: url('../assets/rounded_spiral-latest-bg.png'); 
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.pt-card {
+    background: white;
+    border-radius: 15px;
+    padding: 20px;
+    width: 260px;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.rank-num {
+    font-size: 50px;
+    font-weight: 800;
+    color: #111;
+    margin: 0;
+    line-height: 1;
+}
+
+.team-name-text {
+    font-size: 11px;
+    font-weight: bold;
+    color: #333;
+    margin-left: 10px;
+    margin-top: 5px;
+    text-transform: uppercase;
+}
+
+.team-logo-mid {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.pt-logo {
+    width: 90px;
+    height: 90px;
+    object-fit: contain;
+    
+    filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));
+}
+
+.divider-line {
+    border-top: 1px solid #eee;
+    margin: 10px 0;
+}
+
+.stat-box {
+    text-align: center;
+}
+
+.stat-box strong {
+    font-size: 16px;
+    display: block;
+    color: #222;
+}
+
+.stat-box p {
+    font-size: 10px;
+    color: #888;
+    margin: 0;
+}
+
+
+.full-pt-btn {
+    background-color: #19398a;
+    color: white;
+    border: none;
+    padding: 10px 40px;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+
+    /* Slanting shape mate */
+    clip-path: polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%);
+    transition: 0.3s;
+}
+
+.full-pt-btn:hover {
+    background-color: #ef4123;
+    transform: scale(1.05);
+}

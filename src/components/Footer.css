@@ -1,0 +1,79 @@
+.ipl-footer {
+    background-color: #06143c; /* Dark Blue Theme */
+    color: #ffffff;
+    border-top: 4px solid #ef4123; /* Top Red Accent Border */
+}
+
+.footer-logo {
+    font-weight: 900;
+    font-style: italic;
+    color: #ffffff;
+}
+
+.ipl-footer h5 {
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.ipl-footer a {
+    color: #adb5bd;
+    text-decoration: none;
+    font-size: 14px;
+    display: block;
+    margin-bottom: 8px;
+    transition: 0.3s;
+}
+
+.ipl-footer a:hover {
+    color: #ef4123; /* Hover par IPL Red */
+    padding-left: 5px;
+}
+
+.social-icons i {
+    font-size: 22px;
+    color: #ffffff;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.social-icons i:hover {
+    color: #ef4123;
+    transform: scale(1.2);
+}
+
+.footer-line {
+    border-color: rgba(255, 255, 255, 0.1);
+    margin-top: 30px;
+}
+
+.footer-bottom-links span {
+    color: #adb5bd;
+    cursor: pointer;
+}
+
+.footer-bottom-links span:hover {
+    text-decoration: underline;
+}
+
+.footer-bottom-brand {
+    background-color: #111; 
+    padding: 60px 0;
+    text-align: center;
+    overflow: hidden;
+}
+
+.wide-brand-text {
+    font-family: 'Syncopate', sans-serif;
+    
+    font-size: 4vw; 
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+    
+    letter-spacing: 25px; 
+    margin: 0;
+    opacity: 0.8;
+    
+    margin-right: -25px; 
+}
