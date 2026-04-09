@@ -17,13 +17,12 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
                                                    IPLT20 INDIAN PREMIERE LEAGUE | OFFICIAL WEBSITE 
-
-![SS1](https://github.com/user-attachments/assets/7954144a-b1f1-4bf3-b9cc-ce88c6780624)
-![SS2](https://github.com/user-attachments/assets/5986ca1f-d5c9-4786-b5c5-b052fb8813e7)
-![SS3](https://github.com/user-attachments/assets/9790318e-e76b-467f-82c4-2d99237d58d8)
-![SS4](https://github.com/user-attachments/assets/d6327773-615f-4d87-af28-355fc5020d1e)
-![SS5](https://github.com/user-attachments/assets/6a258350-2b5f-4bfa-81e5-03c79f9ef748)
-![SS6](https://github.com/user-attachments/assets/19739308-b331-445d-8178-137ebabf4b67)
+                                                   
+![S1](https://github.com/user-attachments/assets/93c27204-c138-44fa-bb0a-db39e7261ec5)
+![S2](https://github.com/user-attachments/assets/2482e299-b600-42a4-8f09-3868040dd741)
+![S3](https://github.com/user-attachments/assets/084dd1bb-efc6-450a-ad30-9e6c0fc39905)
+![S4](https://github.com/user-attachments/assets/b588f99c-ceba-4212-a814-68c64022db79)
+![S5](https://github.com/user-attachments/assets/f8b1861a-6d9b-47c4-b577-df5da8253706)
 
                                                         🚀 TECHNICAL IMPLEMENTATION DETAILS
 
